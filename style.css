@@ -1,0 +1,32 @@
+html {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header {
+  text-align: center;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+}
+
+img {
+  height: 522px;
+  width: 680px;
+}
+
+.txt1 {
+  height: 270px;
+  width: 642px;
+}
+
+.m {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
